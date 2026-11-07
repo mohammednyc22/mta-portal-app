@@ -1,4 +1,3 @@
-cat << 'EOF' > package.json
 {
   "name": "mta-portal-app",
   "private": true,
@@ -27,4 +26,3 @@ cat << 'EOF' > package.json
   },
   "homepage": "https://mohammednyc22.github.io/mta-portal-app"
 }
-EOF
